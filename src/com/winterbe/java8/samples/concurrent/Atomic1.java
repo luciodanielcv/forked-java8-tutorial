@@ -69,5 +69,8 @@ public class Atomic1 {
 
         System.out.format("Increment: Expected=%d; Is=%d\n", NUM_INCREMENTS, atomicInt.get());
     }
+	
+	// This is my second comment.
+	
 
 }
